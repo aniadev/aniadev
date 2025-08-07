@@ -3,6 +3,9 @@
   <br>
   <b>Aniadev</b>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aniadev&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniadev&show_icons=true&hide_title=false)
@@ -12,5 +15,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aniadev)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniadev)
 
