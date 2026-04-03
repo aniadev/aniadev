@@ -37,16 +37,16 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building q
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniadev&show_icons=true&hide_title=false&hide_rank=false&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aniadev&show_icons=true&hide_title=false&hide_rank=false&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniadev&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniadev&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniadev&rank=-C,-B&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/aniadev">
+    <img src="https://github-readme-stats-fast.vercel.app/?username=aniadev&rank=-C,-B&theme=dracula&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -62,10 +62,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building q
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com)
-- 🐦 Twitter: [Your Twitter](https://twitter.com)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 💼 LinkedIn: [phamhai99](https://www.linkedin.com/in/phamhai99)
+- 🐦 X: [Ania](https://x.com/haiph_9)
 
 ---
 
