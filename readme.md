@@ -21,6 +21,9 @@
 
 Hey! I'm a Senior Frontend & Blockchain dev who loves coding and magic. Let's build something cool together! 🚀
 
+#### Read my blog:
+[https://aniadev.github.io](https://aniadev.github.io/)
+
 ---
 
 ## ⚡ Tech Stacks
